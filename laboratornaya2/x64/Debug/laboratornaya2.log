@@ -1,0 +1,5 @@
+﻿  decrypt.cpp
+C:\Users\zondo\source\repos\laboratornaya2\laboratornaya2\decrypt.cpp(27,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zondo\source\repos\laboratornaya2\laboratornaya2\decrypt.cpp(44,17): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+C:\Users\zondo\source\repos\laboratornaya2\laboratornaya2\decrypt.cpp(62,6): warning C4101: tryes: неиспользованная локальная переменная
+  laboratornaya2.vcxproj -> C:\Users\zondo\source\repos\laboratornaya2\x64\Debug\laboratornaya2.exe
